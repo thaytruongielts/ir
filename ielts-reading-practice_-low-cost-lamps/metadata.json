@@ -1,0 +1,5 @@
+{
+  "name": "IELTS Reading Practice: Low-Cost Lamps",
+  "description": "An interactive web application to practice an IELTS reading passage about low-cost solar lamps in rural India. Users can answer multiple-choice, sentence completion, and true/false/not given questions and check their scores.",
+  "requestFramePermissions": []
+}
